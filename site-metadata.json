@@ -29,7 +29,8 @@
                 "url": "/contact/",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "images/Zetta logo - FINAL.png"
     },
     "footer": {
         "has_nav": true,
